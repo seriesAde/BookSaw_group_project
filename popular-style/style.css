@@ -1,0 +1,97 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.popular-books-section {
+    padding: 50px 0;
+    background-color: #F3F2EC;
+}
+
+.popular-books-container {
+    text-align: center;
+}
+
+.popular-books-container > p {
+    font-size: 14px;
+    color: #afafaf;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
+}
+
+.popular-books-container h3 {
+    font-size: 48px;
+    font-weight: 500;
+    font-family: "Prata", Georgia, serif;
+    margin-bottom: 50px;
+    color: #2f2f2f;
+    text-transform: capitalize;
+}
+
+.popular-books-select {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 50px;
+}
+
+.popular-books-select p {
+    font-weight: 600;
+    color: #999;
+    margin-bottom: 5px;
+    line-height: 2;
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.popular-books-select p.active {
+    color: #111;
+    border-bottom: 2px solid #9A884C;
+}
+
+.p-books-style {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+.p-books-card {
+    position: relative;
+    overflow: hidden;
+}
+
+.p-books-card img {
+    position: relative;
+    background: #EFEEE8;
+    border: 1px solid #EAE8DF;
+    padding: 15%;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.p-books-card h4 {
+    font-size: 1.4em;
+    font-weight: 500;
+    color: #74642F;
+    line-height: 1.4;
+}
+
+.p-books-card p {
+    font-size: 16px;
+    line-height: 2;
+    color: #757575;
+    font-family: "Raleway", sans-serif;
+}
+
+.p-books-card span {
+    color: #74642F;
+    font-size: 1.3em;
+    font-family: "Raleway", sans-serif;
+}
