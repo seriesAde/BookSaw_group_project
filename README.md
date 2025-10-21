@@ -9,6 +9,7 @@ pallet2 #F3F2EC(white smoke)
 pallet3 #DAA56A (kinda orange)
 palet4 #777777 (grey)
 palet5 #74642F (desert sand color)
+#EFEEE8
 
 
 

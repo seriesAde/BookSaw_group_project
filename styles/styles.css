@@ -1,0 +1,31 @@
+
+
+
+.quality_items{
+    background-color: #F3F2EC;
+    text-align: center;
+}
+.quality_list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    width: 80%;
+    margin: auto;
+    list-style: none;
+    padding: 5rem 1rem;
+    box-sizing: border-box;
+}
+.quality_item img{
+    width: 100%;
+    margin: auto;
+}
+.quality_items_wrapper{
+    text-transform: uppercase;
+    text-align: center;
+}
+.quality_items_wrapper p{
+    color: #777777 ;
+    font-weight: 100;
+    margin-top: 5rem;
+}
