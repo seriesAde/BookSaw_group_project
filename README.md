@@ -10,3 +10,17 @@ pallet3 #DAA56A (kinda orange)
 palet4 #777777 (grey)
 palet5 #74642F (desert sand color)
 
+
+
+tasks
+
+
+nav and hero (udoka)
+some quality items (favor)
+featured books and best selling (kenny)
+popular books (charles)
+quote of the day and books with offer(murad)
+subscribe- newsletter (jasmine)
+lattest article (uche)
+download app now (abuchi)
+footer (emmanuel)
